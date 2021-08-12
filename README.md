@@ -1,5 +1,7 @@
 # iPhone photo sync on connect
 
+**Note**: The new Google Drive desktop client release 2021-08 supports uploading pictures from a plugged in iPhone to both Google Drive and Google Photos at the same time. This is no longer necessary.
+
 ## Setup: Run manually
 First, make sure you have rsync and ifuse. You can get rsync from brew easily enough, but getting ifuse to work is a bit tricky. See here: https://sudonull.com/post/25455-Mount-iOS-under-OSX-using-ifuse.
 
